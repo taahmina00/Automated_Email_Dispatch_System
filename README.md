@@ -23,7 +23,8 @@ This project automates email dispatch by fetching recipient details and content 
 ## 🧰 Technologies Used
 
 - Python  
-- Oracle Database  
+- Oracle Database
+- Oracle Instant Client (for enabling Oracle database interaction) 
 - cx_Oracle (Python-Oracle DB connector)  
 - smtplib (SMTP email handling)  
 - email.mime (for constructing email content)  
